@@ -1,0 +1,22 @@
+[
+	{
+		"actype": 0,
+		"autohop": 1,
+		"ezhop": 1,
+		"id": 6301,
+		"nolimit": 1,
+		"point_a": [
+			0.0,
+			-5648.0,
+			128.03125
+		],
+		"point_b": [
+			0.0,
+			-5632.0,
+			128.03125
+		],
+		"track": 0,
+		"type": "freestyle",
+		"unrestrict": 1
+	}
+]

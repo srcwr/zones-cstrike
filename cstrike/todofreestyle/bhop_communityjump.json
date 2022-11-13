@@ -1,0 +1,42 @@
+[
+	{
+		"actype": 0,
+		"autohop": 1,
+		"ezhop": 1,
+		"id": 3106,
+		"nolimit": 1,
+		"point_a": [
+			-3752.0,
+			3168.0,
+			-511.96875
+		],
+		"point_b": [
+			-3672.0,
+			3256.0,
+			-448.0
+		],
+		"track": 0,
+		"type": "freestyle",
+		"unrestrict": 1
+	},
+	{
+		"actype": 0,
+		"autohop": 1,
+		"ezhop": 1,
+		"id": 5984,
+		"nolimit": 1,
+		"point_a": [
+			3512.0,
+			14592.0,
+			12592.03125
+		],
+		"point_b": [
+			3512.0,
+			14592.0,
+			12592.03125
+		],
+		"track": 0,
+		"type": "freestyle",
+		"unrestrict": 1
+	}
+]

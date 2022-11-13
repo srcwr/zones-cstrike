@@ -1,0 +1,82 @@
+[
+	{
+		"actype": 0,
+		"autohop": 1,
+		"ezhop": 1,
+		"id": 4473,
+		"nolimit": 1,
+		"point_a": [
+			-349.113433,
+			79.96875,
+			1440.0
+		],
+		"point_b": [
+			152.0,
+			104.0,
+			1607.045288
+		],
+		"track": 0,
+		"type": "freestyle",
+		"unrestrict": 1
+	},
+	{
+		"actype": 0,
+		"autohop": 1,
+		"ezhop": 1,
+		"id": 4478,
+		"nolimit": 1,
+		"point_a": [
+			3208.0,
+			-552.0,
+			-923.96875
+		],
+		"point_b": [
+			4180.0,
+			-500.0,
+			-923.96875
+		],
+		"track": 0,
+		"type": "freestyle",
+		"unrestrict": 1
+	},
+	{
+		"actype": 0,
+		"autohop": 1,
+		"ezhop": 1,
+		"id": 4479,
+		"nolimit": 1,
+		"point_a": [
+			2646.737304,
+			34.0,
+			-1363.484863
+		],
+		"point_b": [
+			4246.0,
+			56.03125,
+			-720.0
+		],
+		"track": 0,
+		"type": "freestyle",
+		"unrestrict": 1
+	},
+	{
+		"actype": 0,
+		"autohop": 1,
+		"ezhop": 1,
+		"id": 4480,
+		"nolimit": 1,
+		"point_a": [
+			11864.0,
+			-4376.0,
+			-1441.96875
+		],
+		"point_b": [
+			11976.0,
+			-4376.0,
+			-1441.96875
+		],
+		"track": 0,
+		"type": "freestyle",
+		"unrestrict": 1
+	}
+]

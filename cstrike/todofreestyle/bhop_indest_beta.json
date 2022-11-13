@@ -1,0 +1,162 @@
+[
+	{
+		"actype": 0,
+		"autohop": 1,
+		"ezhop": 1,
+		"id": 5340,
+		"nolimit": 1,
+		"point_a": [
+			-2496.0,
+			7104.0,
+			-5951.96875
+		],
+		"point_b": [
+			-2368.0,
+			7232.0,
+			-5951.96875
+		],
+		"track": 0,
+		"type": "freestyle",
+		"unrestrict": 1
+	},
+	{
+		"actype": 0,
+		"autohop": 1,
+		"ezhop": 1,
+		"id": 5341,
+		"nolimit": 1,
+		"point_a": [
+			-2240.0,
+			7488.0,
+			-5951.96875
+		],
+		"point_b": [
+			-2112.03125,
+			7615.899414,
+			-5951.96875
+		],
+		"track": 0,
+		"type": "freestyle",
+		"unrestrict": 1
+	},
+	{
+		"actype": 0,
+		"autohop": 1,
+		"ezhop": 1,
+		"id": 5342,
+		"nolimit": 1,
+		"point_a": [
+			-2880.0,
+			7872.0,
+			-5951.96875
+		],
+		"point_b": [
+			-2752.0,
+			8000.0,
+			-5951.96875
+		],
+		"track": 0,
+		"type": "freestyle",
+		"unrestrict": 1
+	},
+	{
+		"actype": 0,
+		"autohop": 1,
+		"ezhop": 1,
+		"id": 5343,
+		"nolimit": 1,
+		"point_a": [
+			-3648.0,
+			6848.0,
+			-5951.96875
+		],
+		"point_b": [
+			-3520.03125,
+			6978.97998,
+			-5951.96875
+		],
+		"track": 0,
+		"type": "freestyle",
+		"unrestrict": 1
+	},
+	{
+		"actype": 0,
+		"autohop": 1,
+		"ezhop": 1,
+		"id": 5344,
+		"nolimit": 1,
+		"point_a": [
+			-3648.0,
+			6208.03125,
+			-5951.96875
+		],
+		"point_b": [
+			-3520.64038,
+			6336.0,
+			-5951.96875
+		],
+		"track": 0,
+		"type": "freestyle",
+		"unrestrict": 1
+	},
+	{
+		"actype": 0,
+		"autohop": 1,
+		"ezhop": 1,
+		"id": 5347,
+		"nolimit": 1,
+		"point_a": [
+			-4920.0,
+			9928.0,
+			-5567.96875
+		],
+		"point_b": [
+			-4808.0,
+			10040.0,
+			-5567.96875
+		],
+		"track": 0,
+		"type": "freestyle",
+		"unrestrict": 1
+	},
+	{
+		"actype": 0,
+		"autohop": 1,
+		"ezhop": 1,
+		"id": 5348,
+		"nolimit": 1,
+		"point_a": [
+			-4536.0,
+			9160.0,
+			-5567.96875
+		],
+		"point_b": [
+			-4424.0,
+			9280.0,
+			-5567.96875
+		],
+		"track": 0,
+		"type": "freestyle",
+		"unrestrict": 1
+	},
+	{
+		"actype": 0,
+		"autohop": 1,
+		"ezhop": 1,
+		"id": 5349,
+		"nolimit": 1,
+		"point_a": [
+			5936.0,
+			-8360.0,
+			-8944.0
+		],
+		"point_b": [
+			6024.0,
+			-8272.0,
+			-8944.0
+		],
+		"track": 0,
+		"type": "freestyle",
+		"unrestrict": 1
+	}
+]
