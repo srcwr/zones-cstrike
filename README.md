@@ -14,10 +14,10 @@ shavit_zones_usesql "0"
 ```
 in `cfg/sourcemod/plugin.shavit-zones-json.cfg`
 ```
-shavit_zones_json_url "http://zones-{engine}.srcwr.com/x/{map}.json"
+shavit_zones_json_url "http://zones-{engine}.srcwr.com/z/{map}.json"
 
 // Or you could use the github pages direct url
-shavit_zones_json_url "https://srcwr.github.io/zones-{engine}/x/{map}.json"
+shavit_zones_json_url "https://srcwr.github.io/zones-{engine}/z/{map}.json"
 ```
 
 ## other stuff
