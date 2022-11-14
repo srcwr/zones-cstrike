@@ -3,9 +3,9 @@ work-in-progress standardized zones for bhoptimer (for Counter-Strike: Source)
 
 Pull-requests are welcome.
 
-[home page](https://github.com/srcwr/zones_cstrike)
+[home page](https://github.com/srcwr/zones-cstrike)
 
-[github pages page](https://srcwr.github.io/zones_cstrike/)
+[github pages page](https://srcwr.github.io/zones-cstrike/)
 
 ## To use
 in `cfg/plugin.shavit-zones.cfg`
@@ -14,7 +14,7 @@ shavit_zones_usesql "0"
 ```
 in `cfg/plugin.shavit-zones-http.cfg`
 ```
-shavit_zones_http_url "https://srcwr.github.io/zones_{engine}/x/{map}.json"
+shavit_zones_http_url "https://srcwr.github.io/zones-{engine}/x/{map}.json"
 ```
 
 ## other stuff
