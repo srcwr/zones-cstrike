@@ -1,4 +1,4 @@
-# zones_cstrike
+# zones-cstrike
 work-in-progress standardized zones for bhoptimer (for Counter-Strike: Source)
 
 Pull-requests are welcome.
@@ -14,6 +14,8 @@ shavit_zones_usesql "0"
 ```
 in `cfg/plugin.shavit-zones-http.cfg`
 ```
+shavit_zones_http_url "http://zones-{engine}.srcwr.com/x/{map}.json"
+// Or you could use the github pages direct url 
 shavit_zones_http_url "https://srcwr.github.io/zones-{engine}/x/{map}.json"
 ```
 
