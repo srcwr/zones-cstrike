@@ -8,15 +8,16 @@ Pull-requests are welcome.
 [github pages page](https://srcwr.github.io/zones-cstrike/)
 
 ## To use
-in `cfg/plugin.shavit-zones.cfg`
+in `cfg/sourcemod/plugin.shavit-zones.cfg`
 ```
 shavit_zones_usesql "0"
 ```
-in `cfg/plugin.shavit-zones-http.cfg`
+in `cfg/sourcemod/plugin.shavit-zones-json.cfg`
 ```
-shavit_zones_http_url "http://zones-{engine}.srcwr.com/x/{map}.json"
-// Or you could use the github pages direct url 
-shavit_zones_http_url "https://srcwr.github.io/zones-{engine}/x/{map}.json"
+shavit_zones_json_url "http://zones-{engine}.srcwr.com/x/{map}.json"
+
+// Or you could use the github pages direct url
+shavit_zones_json_url "https://srcwr.github.io/zones-{engine}/x/{map}.json"
 ```
 
 ## other stuff
