@@ -1,0 +1,14 @@
+{
+	"bonus1": {
+		"ezhop_required": false,
+		"tier_400vel": 1,
+		"tier_normal": 1,
+		"tier_scroll": 1,
+		"todo": true
+	},
+	"ezhop_required": false,
+	"tier_400vel": 1,
+	"tier_normal": 1,
+	"tier_scroll": 1,
+	"verified": true
+}
