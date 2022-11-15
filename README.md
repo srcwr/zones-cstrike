@@ -21,8 +21,6 @@ shavit_zones_json_url "https://srcwr.github.io/zones-{engine}/z/{map}.json"
 ```
 
 ## other stuff
-currently a couple of zone dumps combined.
-
-- initial dump of btimes zones table from Solitude, courtesy of Eric ([Github]( https://github.com/ecsr) / [Steam](https://steamcommunity.com/id/-eric))
-- non-dupes merged from cutehops zone dump, courtesy of may/lilac ([Github](https://github.com/lilac1337) / [Steam](https://steamcommunity.com/profiles/76561198955846348))
-- merged (and overwrote existing dupes) with the sourcejump dump, courtesy of Eric ([Github]( https://github.com/ecsr) / [Steam](https://steamcommunity.com/id/-eric))
+currently the cutehops zone dump with the sourcejump zone dump merged on top.
+- cutehops zone dump, courtesy of may/lilac ([Github](https://github.com/lilac1337) / [Steam](https://steamcommunity.com/profiles/76561198955846348))
+- sourcejump dump, courtesy of Eric ([Github]( https://github.com/ecsr) / [Steam](https://steamcommunity.com/id/-eric))
