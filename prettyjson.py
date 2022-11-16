@@ -1,6 +1,13 @@
 import json
 from pathlib import Path
 import time
+import os.path
+
+"""
+for map in fapzormaps.splitlines():
+    with open("i/" + map.strip() + ".json", "w+", newline='\n') as f:
+        f.write('[{"possible_on_scroll": 1,"possible_on_stamina": 1}]')
+"""
 
 now = int(time.time())
 
@@ -19,3 +26,12 @@ for filename in dddd.glob("**/*.json"):
             f.seek(0)
             f.truncate()
             f.write(pretty)
+
+
+for filename in dddd.glob("i/*.json"):
+    x = "z/" + filename.stem + ".json"
+    if not os.path.isfile(x):
+        open(x, 'a').close()
+        #with open(x, 'a') as f:
+        #    f.write("[]")
+

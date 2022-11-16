@@ -1,10 +1,8 @@
-{
-	"ezhop_required": false,
-	"fucked_by_skip": true,
-	"kz_buttons": "buttons || zones",
-	"literally_no_bonus": true,
-	"tier_400vel": 1,
-	"tier_normal": 1,
-	"tier_scroll": 1,
-	"verified": true
-}
+[
+	{
+		"possible_on_400vel": 1,
+		"possible_on_scroll": 1,
+		"possible_on_stamina": 1,
+		"tier": 1
+	}
+]

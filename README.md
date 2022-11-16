@@ -1,5 +1,5 @@
 # zones-cstrike
-work-in-progress standardized zones for bhoptimer (for Counter-Strike: Source)
+work-in-progress standardized zones for [bhoptimer](https://github.com/shavitush/bhoptimer) (for Counter-Strike: Source)
 
 Pull-requests are welcome.
 
